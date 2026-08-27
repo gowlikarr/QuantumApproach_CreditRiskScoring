@@ -4,9 +4,9 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![PennyLane](https://img.shields.io/badge/PennyLane-quantum--kernel-6b4fbb)
 
-A quantum machine learning approach to **credit risk scoring / loan-default classification**, built for the *Quantum Machine Learning (AIMLZG545)* course. A 6-qubit fidelity quantum kernel (angle encoding + entangling CNOT ring) is estimated on a PennyLane simulator and used to train a kernel-based SVM, benchmarked against classical RBF and linear SVM baselines on the same data.
+A quantum machine learning approach to **credit risk scoring / loan-default classification**, built for the *Quantum Machine Learning. A 6-qubit fidelity quantum kernel (angle encoding + entangling CNOT ring) is estimated on a PennyLane simulator and used to train a kernel-based SVM, benchmarked against classical RBF and linear SVM baselines on the same data.
 
-Full write-up: [`QML_Assignment2_Report_2024AC0500.pdf`](QML_Assignment2_Report_2024AC0500.pdf). Runnable analysis: [`CreditRiskScoring_Loan_DefaultClassification.ipynb`](CreditRiskScoring_Loan_DefaultClassification.ipynb).
+Runnable analysis: [`CreditRiskScoring_Loan_DefaultClassification.ipynb`](CreditRiskScoring_Loan_DefaultClassification.ipynb).
 
 ## Overview
 
