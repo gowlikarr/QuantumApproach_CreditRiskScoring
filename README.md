@@ -35,7 +35,6 @@ Each pipeline stage lives in its own module under [`src/`](src/), and the notebo
 ```
 .
 ├── CreditRiskScoring_Loan_DefaultClassification.ipynb   # end-to-end analysis notebook
-├── QML_Assignment2_Report_2024AC0500.pdf                 # course report (3-5 page write-up)
 ├── src/
 │   ├── config.py             # qubit budget, encoding range, paths, random seed
 │   ├── data_loading.py       # UCI dynamic fetch + local CSV fallback
